@@ -42,12 +42,13 @@ The tool can analyze data for a single video by its video ID or utilize a search
 
 <details>
 <summary>Sentiment</summary>
-<!--   <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br> -->
+  <img src="https://github.com/rrajsinghhada/Youtube-Analyser/blob/main/Data_Visualisation/Sentiment.png" alt="Move Cursor" width="711" height="400"><br>
+  <img src="https://github.com/rrajsinghhada/Youtube-Analyser/blob/main/Data_Visualisation/Pie.png" alt="Move Cursor" width="711" height="400"><br>
   <figcaption>Again result of search query 'Virat Kohli' and it shows the same trend and also sentiment.</figcaption>
 </details>
 
 <details>
 <summary>Month Wise Engagement</summary>
-<!--   <img src="https://github.com/xenon-19/Gesture_Controller/blob/e20edfb1f368ffa600d96bd91031942ec97cb2ab/demo_media/move%20mouse.gif" alt="Move Cursor" width="711" height="400"><br> -->
+  <img src="https://github.com/rrajsinghhada/Youtube-Analyser/blob/main/Data_Visualisation/Year_wise.png" alt="Move Cursor" width="711" height="400"><br>
   <figcaption>This clearly shows the increase in traffic during the IPL period.</figcaption>
 </details>
