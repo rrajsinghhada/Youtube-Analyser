@@ -34,7 +34,7 @@ The tool can analyze data for a single video by its video ID or utilize a search
 <details>
 <summary>Engagement Level</summary>
  <figure>
-<!--   <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br> -->
+  <img src="https://github.com/rrajsinghhada/Youtube-Analyser/blob/main/Data_Visualisation/Engagement.png" alt="Palm" width="711" height="400"><br>
   <figcaption>The Graph is the engagement level of search query 'Virat Kohli'.It shows clear peaks before and after the RCB vs CSK match and also after the RR vs RCB match.</figcaption>
 </figure>
 </details>
