@@ -7,7 +7,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import datetime
 from visualisation import timestamp_graph,Pie_chart,engagement_graph
 from data_manuplation import monthly,csv_file
-api_key = 'AIzaSyAfT9Of2AXi8O-WyDoeRYl4wy6GJ0KKyZ0'
+api_key = 'xyz'
 
 
 def get_upload_date_from_web(video_id):
